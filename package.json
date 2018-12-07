@@ -1,0 +1,20 @@
+{
+  "name": "RA_MacetaArduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase": "^5.6.0",
+    "firebase-admin": "^6.3.0",
+    "request": "^2.88.0",
+    "serialport": "^7.1.0",
+    "socket.io": "^2.2.0"
+  }
+}
